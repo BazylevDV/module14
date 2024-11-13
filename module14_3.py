@@ -11,7 +11,7 @@ import os
 # Импортируем inline_keyboard из модуля bot.module13_6
 from bot.module13_6 import inline_keyboard
 
-API_TOKEN = '7621891088:AAFbxb5UDSUYg2wFWrR1DQEZgEbkc9kSDmU'
+API_TOKEN = ''
 
 # Создаем класс состояний
 class UserState(StatesGroup):
